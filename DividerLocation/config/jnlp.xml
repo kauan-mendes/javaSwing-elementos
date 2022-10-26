@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <property name="jnlp.title"    value="JST DividerLocation" />
+  <property name="jnlp.Name"     value="DividerLocation" />
+  <property name="jnlp.name"     value="dividerlocation" />
+  <property name="jnlp.codebase" value="https://ateraimemo.com/swing/dividerlocation/" />
+  <property name="jnlp.homepage" value="https://ateraimemo.com/Swing/DividerLocation.html" />
+</project>

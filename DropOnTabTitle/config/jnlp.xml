@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <property name="jnlp.title"    value="JST DropOnTabTitle" />
+  <property name="jnlp.Name"     value="DropOnTabTitle" />
+  <property name="jnlp.name"     value="dropontabtitle" />
+  <property name="jnlp.codebase" value="https://ateraimemo.com/swing/dropontabtitle/" />
+  <property name="jnlp.homepage" value="https://ateraimemo.com/Swing/DropOnTabTitle.html" />
+</project>

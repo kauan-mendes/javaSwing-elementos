@@ -1,0 +1,3 @@
+file('.').eachDirMatch(~/[A-Z]\w+/) {
+    include it.name
+}

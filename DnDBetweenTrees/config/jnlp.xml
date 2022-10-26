@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <property name="jnlp.title"    value="JST DnDBetweenTrees" />
+  <property name="jnlp.Name"     value="DnDBetweenTrees" />
+  <property name="jnlp.name"     value="dndbetweentrees" />
+  <property name="jnlp.codebase" value="https://ateraimemo.com/swing/dndbetweentrees/" />
+  <property name="jnlp.homepage" value="https://ateraimemo.com/Swing/DnDBetweenTrees.html" />
+</project>

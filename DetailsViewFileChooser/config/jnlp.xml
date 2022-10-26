@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <property name="jnlp.title"    value="JST DetailsViewFileChooser" />
+  <property name="jnlp.Name"     value="DetailsViewFileChooser" />
+  <property name="jnlp.name"     value="detailsviewfilechooser" />
+  <property name="jnlp.codebase" value="https://ateraimemo.com/swing/detailsviewfilechooser/" />
+  <property name="jnlp.homepage" value="https://ateraimemo.com/Swing/DetailsViewFileChooser.html" />
+</project>

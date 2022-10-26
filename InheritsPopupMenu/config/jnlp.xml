@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <property name="jnlp.title"    value="JST InheritsPopupMenu" />
+  <property name="jnlp.Name"     value="InheritsPopupMenu" />
+  <property name="jnlp.name"     value="inheritspopupmenu" />
+  <property name="jnlp.codebase" value="https://ateraimemo.com/swing/inheritspopupmenu/" />
+  <property name="jnlp.homepage" value="https://ateraimemo.com/Swing/InheritsPopupMenu.html" />
+</project>
